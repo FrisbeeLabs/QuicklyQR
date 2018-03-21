@@ -1,0 +1,22 @@
+{
+  "name": "QuicklyQR",
+  "version": "0.1.0",
+  "summary": "A short description of QuicklyQR.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Suhas Narayanamurthy/QuicklyQR",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Suhas Narayanamurthy": "bn.suhas@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Suhas Narayanamurthy/QuicklyQR.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QuicklyQR/Classes/**/*"
+}

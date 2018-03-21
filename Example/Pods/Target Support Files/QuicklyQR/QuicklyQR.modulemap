@@ -1,0 +1,6 @@
+framework module QuicklyQR {
+  umbrella header "QuicklyQR-umbrella.h"
+
+  export *
+  module * { export * }
+}
